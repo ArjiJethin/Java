@@ -3,6 +3,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "MultiLevel",
+      "request": "launch",
+      "mainClass": "classes.MultiLevel",
+      "projectName": "Java_3d602c26"
+    },
+    {
+      "type": "java",
       "name": "inheritance",
       "request": "launch",
       "mainClass": "classes.inheritance",
