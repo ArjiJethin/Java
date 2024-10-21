@@ -3,6 +3,97 @@
   "configurations": [
     {
       "type": "java",
+      "name": "constructer_overloading",
+      "request": "launch",
+      "mainClass": "MSE.constructer_overloading",
+      "projectName": "Java_3d602c26"
+    },
+    {
+      "type": "java",
+      "name": "constructor",
+      "request": "launch",
+      "mainClass": "MSE.constructor",
+      "projectName": "Java_3d602c26"
+    },
+    {
+      "type": "java",
+      "name": "Overloading",
+      "request": "launch",
+      "mainClass": "MSE.Overloading",
+      "projectName": "Java_3d602c26"
+    },
+    {
+      "type": "java",
+      "name": "Methods",
+      "request": "launch",
+      "mainClass": "MSE.Methods",
+      "projectName": "Java_3d602c26"
+    },
+    {
+      "type": "java",
+      "name": "classes",
+      "request": "launch",
+      "mainClass": "MSE.classes",
+      "projectName": "Java_3d602c26"
+    },
+    {
+      "type": "java",
+      "name": "Arrays",
+      "request": "launch",
+      "mainClass": "MSE.Arrays",
+      "projectName": "Java_3d602c26"
+    },
+    {
+      "type": "java",
+      "name": "while_loops",
+      "request": "launch",
+      "mainClass": "MSE.while_loops",
+      "projectName": "Java_3d602c26"
+    },
+    {
+      "type": "java",
+      "name": "switch_",
+      "request": "launch",
+      "mainClass": "MSE.switch_",
+      "projectName": "Java_3d602c26"
+    },
+    {
+      "type": "java",
+      "name": "if_else_ladder",
+      "request": "launch",
+      "mainClass": "MSE.if_else_ladder",
+      "projectName": "Java_3d602c26"
+    },
+    {
+      "type": "java",
+      "name": "data_types",
+      "request": "launch",
+      "mainClass": "MSE.data_types",
+      "projectName": "Java_3d602c26"
+    },
+    {
+      "type": "java",
+      "name": "ForLoop",
+      "request": "launch",
+      "mainClass": "MSE.ForLoop",
+      "projectName": "Java_3d602c26"
+    },
+    {
+      "type": "java",
+      "name": "If",
+      "request": "launch",
+      "mainClass": "MSE.If",
+      "projectName": "Java_3d602c26"
+    },
+    {
+      "type": "java",
+      "name": "Practise",
+      "request": "launch",
+      "mainClass": "MSE.Practise",
+      "projectName": "Java_3d602c26"
+    },
+    {
+      "type": "java",
       "name": "MultiLevel",
       "request": "launch",
       "mainClass": "classes.MultiLevel",
