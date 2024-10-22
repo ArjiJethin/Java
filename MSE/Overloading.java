@@ -5,7 +5,7 @@ class OverLoadDemo {
         System.out.println("No argument method");
     }
 
-    void test1(int a) {
+    void test(int a) {
         System.out.println("One argument method: " + a);
     }
 
@@ -23,7 +23,7 @@ public class Overloading {
     public static void main(String[] args) {
         OverLoadDemo demo = new OverLoadDemo();
         demo.test();
-        demo.test1(5);
+        demo.test(5);
         demo.test2(3, 4);
         demo.test3(5.5);
     }
