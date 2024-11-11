@@ -3,6 +3,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "AbstractClasses",
+      "request": "launch",
+      "mainClass": "classes.AbstractClasses",
+      "projectName": "Java_2d02f9ce"
+    },
+    {
+      "type": "java",
       "name": "constructer_overloading",
       "request": "launch",
       "mainClass": "MSE.constructer_overloading",
