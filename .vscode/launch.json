@@ -3,6 +3,20 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Problem7",
+      "request": "launch",
+      "mainClass": "Talentely.Interactions1.Problem7",
+      "projectName": "Java_2d02f9ce"
+    },
+    {
+      "type": "java",
+      "name": "Problem6",
+      "request": "launch",
+      "mainClass": "Talentely.Interactions1.Problem6",
+      "projectName": "Java_2d02f9ce"
+    },
+    {
+      "type": "java",
       "name": "Problem5",
       "request": "launch",
       "mainClass": "Talentely.Interactions1.Problem5",
