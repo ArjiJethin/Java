@@ -12,3 +12,5 @@ public class Problem4 {
         System.out.printf("%20.4f", n);
     }
 }
+
+// 2 Marks

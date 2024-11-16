@@ -12,3 +12,5 @@ public class Problem2 {
         System.out.println(a + ":" + (char) a);
     }
 }
+
+// 2 Marks

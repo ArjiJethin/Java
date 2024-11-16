@@ -6,3 +6,5 @@ public class Problem8 {
         System.out.println("The two numbers are " + a + " and " + b);
     }
 }
+
+// 2 Marks

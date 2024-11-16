@@ -15,3 +15,5 @@ public class Problem10 {
         }
     }
 }
+
+// 2 Marks

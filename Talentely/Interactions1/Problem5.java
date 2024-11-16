@@ -15,3 +15,5 @@ public class Problem5 {
         System.out.printf("%." + n + "f", x);
     }
 }
+
+// 2 Marks

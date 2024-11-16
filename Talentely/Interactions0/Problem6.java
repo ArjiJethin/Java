@@ -11,3 +11,5 @@ public class Problem6 {
         System.out.println("The number given in the input is: " + data);
     }
 }
+
+// 2 Marks
