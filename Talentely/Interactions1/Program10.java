@@ -12,3 +12,5 @@ public class Program10 {
         System.out.println(str.replaceAll("/////0", ""));
     }
 }
+
+// 2 Marks
