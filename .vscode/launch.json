@@ -3,6 +3,34 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Problem10",
+      "request": "launch",
+      "mainClass": "Talentely.Problem10",
+      "projectName": "Java_2d02f9ce"
+    },
+    {
+      "type": "java",
+      "name": "Problem9",
+      "request": "launch",
+      "mainClass": "Talentely.Problem9",
+      "projectName": "Java_2d02f9ce"
+    },
+    {
+      "type": "java",
+      "name": "Problem8",
+      "request": "launch",
+      "mainClass": "Talentely.Problem8",
+      "projectName": "Java_2d02f9ce"
+    },
+    {
+      "type": "java",
+      "name": "Problem7",
+      "request": "launch",
+      "mainClass": "Talentely.Problem7",
+      "projectName": "Java_2d02f9ce"
+    },
+    {
+      "type": "java",
       "name": "Problem6",
       "request": "launch",
       "mainClass": "Talentely.Problem6",
