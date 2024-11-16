@@ -5,3 +5,5 @@ public class Problem1 {
         System.out.println("Let's learn 'Java' together with MySlate Team");
     }
 }
+
+// 2 Marks
