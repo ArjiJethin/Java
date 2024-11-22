@@ -3,6 +3,69 @@
   "configurations": [
     {
       "type": "java",
+      "name": "HollowSquare",
+      "request": "launch",
+      "mainClass": "HollowSquare",
+      "projectName": "Java_2d02f9ce"
+    },
+    {
+      "type": "java",
+      "name": "Square_20",
+      "request": "launch",
+      "mainClass": "Square_20",
+      "projectName": "Java_2d02f9ce"
+    },
+    {
+      "type": "java",
+      "name": "HalfDiamond",
+      "request": "launch",
+      "mainClass": "HalfDiamond",
+      "projectName": "Java_2d02f9ce"
+    },
+    {
+      "type": "java",
+      "name": "SecondHalfFloatArray",
+      "request": "launch",
+      "mainClass": "SecondHalfFloatArray",
+      "projectName": "Java_2d02f9ce"
+    },
+    {
+      "type": "java",
+      "name": "Triangle",
+      "request": "launch",
+      "mainClass": "Triangle",
+      "projectName": "Java_2d02f9ce"
+    },
+    {
+      "type": "java",
+      "name": "UpTr_rp",
+      "request": "launch",
+      "mainClass": "UpTr_rp",
+      "projectName": "Java_2d02f9ce"
+    },
+    {
+      "type": "java",
+      "name": "LwTr_rp",
+      "request": "launch",
+      "mainClass": "LwTr_rp",
+      "projectName": "Java_2d02f9ce"
+    },
+    {
+      "type": "java",
+      "name": "LwTr_num",
+      "request": "launch",
+      "mainClass": "LwTr_num",
+      "projectName": "Java_2d02f9ce"
+    },
+    {
+      "type": "java",
+      "name": "UpTrS1",
+      "request": "launch",
+      "mainClass": "UpTrS1",
+      "projectName": "Java_2d02f9ce"
+    },
+    {
+      "type": "java",
       "name": "Problem3",
       "request": "launch",
       "mainClass": "Talentely.Interactions2.Problem3",
