@@ -1,360 +1,395 @@
 {
-  "version": "0.2.0",
-  "configurations": [
-    {
-      "type": "java",
-      "name": "HollowSquare",
-      "request": "launch",
-      "mainClass": "HollowSquare",
-      "projectName": "Java_2d02f9ce"
-    },
-    {
-      "type": "java",
-      "name": "Square_20",
-      "request": "launch",
-      "mainClass": "Square_20",
-      "projectName": "Java_2d02f9ce"
-    },
-    {
-      "type": "java",
-      "name": "HalfDiamond",
-      "request": "launch",
-      "mainClass": "HalfDiamond",
-      "projectName": "Java_2d02f9ce"
-    },
-    {
-      "type": "java",
-      "name": "SecondHalfFloatArray",
-      "request": "launch",
-      "mainClass": "SecondHalfFloatArray",
-      "projectName": "Java_2d02f9ce"
-    },
-    {
-      "type": "java",
-      "name": "Triangle",
-      "request": "launch",
-      "mainClass": "Triangle",
-      "projectName": "Java_2d02f9ce"
-    },
-    {
-      "type": "java",
-      "name": "UpTr_rp",
-      "request": "launch",
-      "mainClass": "UpTr_rp",
-      "projectName": "Java_2d02f9ce"
-    },
-    {
-      "type": "java",
-      "name": "LwTr_rp",
-      "request": "launch",
-      "mainClass": "LwTr_rp",
-      "projectName": "Java_2d02f9ce"
-    },
-    {
-      "type": "java",
-      "name": "LwTr_num",
-      "request": "launch",
-      "mainClass": "LwTr_num",
-      "projectName": "Java_2d02f9ce"
-    },
-    {
-      "type": "java",
-      "name": "UpTrS1",
-      "request": "launch",
-      "mainClass": "UpTrS1",
-      "projectName": "Java_2d02f9ce"
-    },
-    {
-      "type": "java",
-      "name": "Problem3",
-      "request": "launch",
-      "mainClass": "Talentely.Interactions2.Problem3",
-      "projectName": "Java_2d02f9ce"
-    },
-    {
-      "type": "java",
-      "name": "Problem2",
-      "request": "launch",
-      "mainClass": "Talentely.Interactions2.Problem2",
-      "projectName": "Java_2d02f9ce"
-    },
-    {
-      "type": "java",
-      "name": "Problem1",
-      "request": "launch",
-      "mainClass": "Talentely.Interactions2.Problem1",
-      "projectName": "Java_2d02f9ce"
-    },
-    {
-      "type": "java",
-      "name": "Program10",
-      "request": "launch",
-      "mainClass": "Talentely.Interactions1.Program10",
-      "projectName": "Java_2d02f9ce"
-    },
-    {
-      "type": "java",
-      "name": "Program9",
-      "request": "launch",
-      "mainClass": "Talentely.Interactions1.Program9",
-      "projectName": "Java_2d02f9ce"
-    },
-    {
-      "type": "java",
-      "name": "Problem8",
-      "request": "launch",
-      "mainClass": "Talentely.Interactions1.Problem8",
-      "projectName": "Java_2d02f9ce"
-    },
-    {
-      "type": "java",
-      "name": "Problem7",
-      "request": "launch",
-      "mainClass": "Talentely.Interactions1.Problem7",
-      "projectName": "Java_2d02f9ce"
-    },
-    {
-      "type": "java",
-      "name": "Problem6",
-      "request": "launch",
-      "mainClass": "Talentely.Interactions1.Problem6",
-      "projectName": "Java_2d02f9ce"
-    },
-    {
-      "type": "java",
-      "name": "Problem5",
-      "request": "launch",
-      "mainClass": "Talentely.Interactions1.Problem5",
-      "projectName": "Java_2d02f9ce"
-    },
-    {
-      "type": "java",
-      "name": "Problem4",
-      "request": "launch",
-      "mainClass": "Talentely.Interactions1.Problem4",
-      "projectName": "Java_2d02f9ce"
-    },
-    {
-      "type": "java",
-      "name": "Problem3",
-      "request": "launch",
-      "mainClass": "Talentely.Interactions1.Problem3",
-      "projectName": "Java_2d02f9ce"
-    },
-    {
-      "type": "java",
-      "name": "Problem2",
-      "request": "launch",
-      "mainClass": "Talentely.Interactions1.Problem2",
-      "projectName": "Java_2d02f9ce"
-    },
-    {
-      "type": "java",
-      "name": "Problem1",
-      "request": "launch",
-      "mainClass": "Problem1",
-      "projectName": "Java_2d02f9ce"
-    },
-    {
-      "type": "java",
-      "name": "Problem10",
-      "request": "launch",
-      "mainClass": "Talentely.Problem10",
-      "projectName": "Java_2d02f9ce"
-    },
-    {
-      "type": "java",
-      "name": "Problem9",
-      "request": "launch",
-      "mainClass": "Talentely.Problem9",
-      "projectName": "Java_2d02f9ce"
-    },
-    {
-      "type": "java",
-      "name": "Problem8",
-      "request": "launch",
-      "mainClass": "Talentely.Problem8",
-      "projectName": "Java_2d02f9ce"
-    },
-    {
-      "type": "java",
-      "name": "Problem7",
-      "request": "launch",
-      "mainClass": "Talentely.Problem7",
-      "projectName": "Java_2d02f9ce"
-    },
-    {
-      "type": "java",
-      "name": "Problem6",
-      "request": "launch",
-      "mainClass": "Talentely.Problem6",
-      "projectName": "Java_2d02f9ce"
-    },
-    {
-      "type": "java",
-      "name": "Problem5",
-      "request": "launch",
-      "mainClass": "Talentely.Problem5",
-      "projectName": "Java_2d02f9ce"
-    },
-    {
-      "type": "java",
-      "name": "Problem4",
-      "request": "launch",
-      "mainClass": "Talentely.Problem4",
-      "projectName": "Java_2d02f9ce"
-    },
-    {
-      "type": "java",
-      "name": "Problem3",
-      "request": "launch",
-      "mainClass": "Talentely.Problem3",
-      "projectName": "Java_2d02f9ce"
-    },
-    {
-      "type": "java",
-      "name": "Problem2",
-      "request": "launch",
-      "mainClass": "Talentely.Problem2",
-      "projectName": "Java_2d02f9ce"
-    },
-    {
-      "type": "java",
-      "name": "Problem1",
-      "request": "launch",
-      "mainClass": "Talentely.Problem1",
-      "projectName": "Java_2d02f9ce"
-    },
-    {
-      "type": "java",
-      "name": "AbstractClasses",
-      "request": "launch",
-      "mainClass": "classes.AbstractClasses",
-      "projectName": "Java_2d02f9ce"
-    },
-    {
-      "type": "java",
-      "name": "constructer_overloading",
-      "request": "launch",
-      "mainClass": "MSE.constructer_overloading",
-      "projectName": "Java_3d602c26"
-    },
-    {
-      "type": "java",
-      "name": "constructor",
-      "request": "launch",
-      "mainClass": "MSE.constructor",
-      "projectName": "Java_3d602c26"
-    },
-    {
-      "type": "java",
-      "name": "Overloading",
-      "request": "launch",
-      "mainClass": "MSE.Overloading",
-      "projectName": "Java_3d602c26"
-    },
-    {
-      "type": "java",
-      "name": "Methods",
-      "request": "launch",
-      "mainClass": "MSE.Methods",
-      "projectName": "Java_3d602c26"
-    },
-    {
-      "type": "java",
-      "name": "classes",
-      "request": "launch",
-      "mainClass": "MSE.classes",
-      "projectName": "Java_3d602c26"
-    },
-    {
-      "type": "java",
-      "name": "Arrays",
-      "request": "launch",
-      "mainClass": "MSE.Arrays",
-      "projectName": "Java_3d602c26"
-    },
-    {
-      "type": "java",
-      "name": "while_loops",
-      "request": "launch",
-      "mainClass": "MSE.while_loops",
-      "projectName": "Java_3d602c26"
-    },
-    {
-      "type": "java",
-      "name": "switch_",
-      "request": "launch",
-      "mainClass": "MSE.switch_",
-      "projectName": "Java_3d602c26"
-    },
-    {
-      "type": "java",
-      "name": "if_else_ladder",
-      "request": "launch",
-      "mainClass": "MSE.if_else_ladder",
-      "projectName": "Java_3d602c26"
-    },
-    {
-      "type": "java",
-      "name": "data_types",
-      "request": "launch",
-      "mainClass": "MSE.data_types",
-      "projectName": "Java_3d602c26"
-    },
-    {
-      "type": "java",
-      "name": "ForLoop",
-      "request": "launch",
-      "mainClass": "MSE.ForLoop",
-      "projectName": "Java_3d602c26"
-    },
-    {
-      "type": "java",
-      "name": "If",
-      "request": "launch",
-      "mainClass": "MSE.If",
-      "projectName": "Java_3d602c26"
-    },
-    {
-      "type": "java",
-      "name": "Practise",
-      "request": "launch",
-      "mainClass": "MSE.Practise",
-      "projectName": "Java_3d602c26"
-    },
-    {
-      "type": "java",
-      "name": "MultiLevel",
-      "request": "launch",
-      "mainClass": "classes.MultiLevel",
-      "projectName": "Java_3d602c26"
-    },
-    {
-      "type": "java",
-      "name": "inheritance",
-      "request": "launch",
-      "mainClass": "classes.inheritance",
-      "projectName": "Java_3d602c26"
-    },
-    {
-      "name": "C/C++ Runner: Debug Session",
-      "type": "cppdbg",
-      "request": "launch",
-      "args": [],
-      "stopAtEntry": false,
-      "externalConsole": true,
-      "cwd": "c:/Users/arjij/OneDrive/Desktop/Dev/Java",
-      "program": "c:/Users/arjij/OneDrive/Desktop/Dev/Java/build/Debug/outDebug",
-      "MIMode": "gdb",
-      "miDebuggerPath": "gdb",
-      "setupCommands": [
+    "version": "0.2.0",
+    "configurations": [
         {
-          "description": "Enable pretty-printing for gdb",
-          "text": "-enable-pretty-printing",
-          "ignoreFailures": true
+            "type": "java",
+            "name": "Problem6",
+            "request": "launch",
+            "mainClass": "Talentely.Interactions2.Problem6",
+            "projectName": "Java_2d02f9ce"
+        },
+        {
+            "type": "java",
+            "name": "Factorial",
+            "request": "launch",
+            "mainClass": "MSE.Factorial",
+            "projectName": "Java_2d02f9ce"
+        },
+        {
+            "type": "java",
+            "name": "ReturningObj",
+            "request": "launch",
+            "mainClass": "MSE.ReturningObj",
+            "projectName": "Java_2d02f9ce"
+        },
+        {
+            "type": "java",
+            "name": "ObjectParametirization",
+            "request": "launch",
+            "mainClass": "MSE.ObjectParametirization",
+            "projectName": "Java_2d02f9ce"
+        },
+        {
+            "type": "java",
+            "name": "Finalize",
+            "request": "launch",
+            "mainClass": "MSE.Finalize",
+            "projectName": "Java_2d02f9ce"
+        },
+        {
+            "type": "java",
+            "name": "HollowSquare",
+            "request": "launch",
+            "mainClass": "HollowSquare",
+            "projectName": "Java_2d02f9ce"
+        },
+        {
+            "type": "java",
+            "name": "Square_20",
+            "request": "launch",
+            "mainClass": "Square_20",
+            "projectName": "Java_2d02f9ce"
+        },
+        {
+            "type": "java",
+            "name": "HalfDiamond",
+            "request": "launch",
+            "mainClass": "HalfDiamond",
+            "projectName": "Java_2d02f9ce"
+        },
+        {
+            "type": "java",
+            "name": "SecondHalfFloatArray",
+            "request": "launch",
+            "mainClass": "SecondHalfFloatArray",
+            "projectName": "Java_2d02f9ce"
+        },
+        {
+            "type": "java",
+            "name": "Triangle",
+            "request": "launch",
+            "mainClass": "Triangle",
+            "projectName": "Java_2d02f9ce"
+        },
+        {
+            "type": "java",
+            "name": "UpTr_rp",
+            "request": "launch",
+            "mainClass": "UpTr_rp",
+            "projectName": "Java_2d02f9ce"
+        },
+        {
+            "type": "java",
+            "name": "LwTr_rp",
+            "request": "launch",
+            "mainClass": "LwTr_rp",
+            "projectName": "Java_2d02f9ce"
+        },
+        {
+            "type": "java",
+            "name": "LwTr_num",
+            "request": "launch",
+            "mainClass": "LwTr_num",
+            "projectName": "Java_2d02f9ce"
+        },
+        {
+            "type": "java",
+            "name": "UpTrS1",
+            "request": "launch",
+            "mainClass": "UpTrS1",
+            "projectName": "Java_2d02f9ce"
+        },
+        {
+            "type": "java",
+            "name": "Problem3",
+            "request": "launch",
+            "mainClass": "Talentely.Interactions2.Problem3",
+            "projectName": "Java_2d02f9ce"
+        },
+        {
+            "type": "java",
+            "name": "Problem2",
+            "request": "launch",
+            "mainClass": "Talentely.Interactions2.Problem2",
+            "projectName": "Java_2d02f9ce"
+        },
+        {
+            "type": "java",
+            "name": "Problem1",
+            "request": "launch",
+            "mainClass": "Talentely.Interactions2.Problem1",
+            "projectName": "Java_2d02f9ce"
+        },
+        {
+            "type": "java",
+            "name": "Program10",
+            "request": "launch",
+            "mainClass": "Talentely.Interactions1.Program10",
+            "projectName": "Java_2d02f9ce"
+        },
+        {
+            "type": "java",
+            "name": "Program9",
+            "request": "launch",
+            "mainClass": "Talentely.Interactions1.Program9",
+            "projectName": "Java_2d02f9ce"
+        },
+        {
+            "type": "java",
+            "name": "Problem8",
+            "request": "launch",
+            "mainClass": "Talentely.Interactions1.Problem8",
+            "projectName": "Java_2d02f9ce"
+        },
+        {
+            "type": "java",
+            "name": "Problem7",
+            "request": "launch",
+            "mainClass": "Talentely.Interactions1.Problem7",
+            "projectName": "Java_2d02f9ce"
+        },
+        {
+            "type": "java",
+            "name": "Problem6",
+            "request": "launch",
+            "mainClass": "Talentely.Interactions1.Problem6",
+            "projectName": "Java_2d02f9ce"
+        },
+        {
+            "type": "java",
+            "name": "Problem5",
+            "request": "launch",
+            "mainClass": "Talentely.Interactions1.Problem5",
+            "projectName": "Java_2d02f9ce"
+        },
+        {
+            "type": "java",
+            "name": "Problem4",
+            "request": "launch",
+            "mainClass": "Talentely.Interactions1.Problem4",
+            "projectName": "Java_2d02f9ce"
+        },
+        {
+            "type": "java",
+            "name": "Problem3",
+            "request": "launch",
+            "mainClass": "Talentely.Interactions1.Problem3",
+            "projectName": "Java_2d02f9ce"
+        },
+        {
+            "type": "java",
+            "name": "Problem2",
+            "request": "launch",
+            "mainClass": "Talentely.Interactions1.Problem2",
+            "projectName": "Java_2d02f9ce"
+        },
+        {
+            "type": "java",
+            "name": "Problem1",
+            "request": "launch",
+            "mainClass": "Problem1",
+            "projectName": "Java_2d02f9ce"
+        },
+        {
+            "type": "java",
+            "name": "Problem10",
+            "request": "launch",
+            "mainClass": "Talentely.Problem10",
+            "projectName": "Java_2d02f9ce"
+        },
+        {
+            "type": "java",
+            "name": "Problem9",
+            "request": "launch",
+            "mainClass": "Talentely.Problem9",
+            "projectName": "Java_2d02f9ce"
+        },
+        {
+            "type": "java",
+            "name": "Problem8",
+            "request": "launch",
+            "mainClass": "Talentely.Problem8",
+            "projectName": "Java_2d02f9ce"
+        },
+        {
+            "type": "java",
+            "name": "Problem7",
+            "request": "launch",
+            "mainClass": "Talentely.Problem7",
+            "projectName": "Java_2d02f9ce"
+        },
+        {
+            "type": "java",
+            "name": "Problem6",
+            "request": "launch",
+            "mainClass": "Talentely.Problem6",
+            "projectName": "Java_2d02f9ce"
+        },
+        {
+            "type": "java",
+            "name": "Problem5",
+            "request": "launch",
+            "mainClass": "Talentely.Problem5",
+            "projectName": "Java_2d02f9ce"
+        },
+        {
+            "type": "java",
+            "name": "Problem4",
+            "request": "launch",
+            "mainClass": "Talentely.Problem4",
+            "projectName": "Java_2d02f9ce"
+        },
+        {
+            "type": "java",
+            "name": "Problem3",
+            "request": "launch",
+            "mainClass": "Talentely.Problem3",
+            "projectName": "Java_2d02f9ce"
+        },
+        {
+            "type": "java",
+            "name": "Problem2",
+            "request": "launch",
+            "mainClass": "Talentely.Problem2",
+            "projectName": "Java_2d02f9ce"
+        },
+        {
+            "type": "java",
+            "name": "Problem1",
+            "request": "launch",
+            "mainClass": "Talentely.Problem1",
+            "projectName": "Java_2d02f9ce"
+        },
+        {
+            "type": "java",
+            "name": "AbstractClasses",
+            "request": "launch",
+            "mainClass": "classes.AbstractClasses",
+            "projectName": "Java_2d02f9ce"
+        },
+        {
+            "type": "java",
+            "name": "constructer_overloading",
+            "request": "launch",
+            "mainClass": "MSE.constructer_overloading",
+            "projectName": "Java_3d602c26"
+        },
+        {
+            "type": "java",
+            "name": "constructor",
+            "request": "launch",
+            "mainClass": "MSE.constructor",
+            "projectName": "Java_3d602c26"
+        },
+        {
+            "type": "java",
+            "name": "Overloading",
+            "request": "launch",
+            "mainClass": "MSE.Overloading",
+            "projectName": "Java_3d602c26"
+        },
+        {
+            "type": "java",
+            "name": "Methods",
+            "request": "launch",
+            "mainClass": "MSE.Methods",
+            "projectName": "Java_3d602c26"
+        },
+        {
+            "type": "java",
+            "name": "classes",
+            "request": "launch",
+            "mainClass": "MSE.classes",
+            "projectName": "Java_3d602c26"
+        },
+        {
+            "type": "java",
+            "name": "Arrays",
+            "request": "launch",
+            "mainClass": "MSE.Arrays",
+            "projectName": "Java_3d602c26"
+        },
+        {
+            "type": "java",
+            "name": "while_loops",
+            "request": "launch",
+            "mainClass": "MSE.while_loops",
+            "projectName": "Java_3d602c26"
+        },
+        {
+            "type": "java",
+            "name": "switch_",
+            "request": "launch",
+            "mainClass": "MSE.switch_",
+            "projectName": "Java_3d602c26"
+        },
+        {
+            "type": "java",
+            "name": "if_else_ladder",
+            "request": "launch",
+            "mainClass": "MSE.if_else_ladder",
+            "projectName": "Java_3d602c26"
+        },
+        {
+            "type": "java",
+            "name": "data_types",
+            "request": "launch",
+            "mainClass": "MSE.data_types",
+            "projectName": "Java_3d602c26"
+        },
+        {
+            "type": "java",
+            "name": "ForLoop",
+            "request": "launch",
+            "mainClass": "MSE.ForLoop",
+            "projectName": "Java_3d602c26"
+        },
+        {
+            "type": "java",
+            "name": "If",
+            "request": "launch",
+            "mainClass": "MSE.If",
+            "projectName": "Java_3d602c26"
+        },
+        {
+            "type": "java",
+            "name": "Practise",
+            "request": "launch",
+            "mainClass": "MSE.Practise",
+            "projectName": "Java_3d602c26"
+        },
+        {
+            "type": "java",
+            "name": "MultiLevel",
+            "request": "launch",
+            "mainClass": "classes.MultiLevel",
+            "projectName": "Java_3d602c26"
+        },
+        {
+            "type": "java",
+            "name": "inheritance",
+            "request": "launch",
+            "mainClass": "classes.inheritance",
+            "projectName": "Java_3d602c26"
+        },
+        {
+            "name": "C/C++ Runner: Debug Session",
+            "type": "cppdbg",
+            "request": "launch",
+            "args": [],
+            "stopAtEntry": false,
+            "externalConsole": true,
+            "cwd": "c:/Users/arjij/OneDrive/Desktop/Dev/Java",
+            "program": "c:/Users/arjij/OneDrive/Desktop/Dev/Java/build/Debug/outDebug",
+            "MIMode": "gdb",
+            "miDebuggerPath": "gdb",
+            "setupCommands": [
+                {
+                    "description": "Enable pretty-printing for gdb",
+                    "text": "-enable-pretty-printing",
+                    "ignoreFailures": true
+                }
+            ]
         }
-      ]
-    }
-  ]
+    ]
 }
