@@ -3,6 +3,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "RK4Logic",
+            "request": "launch",
+            "mainClass": "TNTProject.RK4Logic",
+            "projectName": "Java_2d02f9ce"
+        },
+        {
+            "type": "java",
             "name": "Problem9",
             "request": "launch",
             "mainClass": "Talentely.Inteactions3.Problem9",
