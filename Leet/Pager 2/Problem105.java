@@ -1,9 +1,9 @@
-package Pager 2;
+import java.util.*;
 
 public class Problem105 {
     public static void main(String[] args) {
-        int[] preorder = {3, 9, 20, 15, 7};
-        int[] inorder = {9, 3, 15, 20, 7};
+        int[] preorder = { 3, 9, 20, 15, 7 };
+        int[] inorder = { 9, 3, 15, 20, 7 };
         Solution solution = new Solution();
         TreeNode root = solution.buildTree(preorder, inorder);
         System.out.println("Root: " + root.val);
